@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: devops-app
-        image: sitaramu2003/devops-app:latest
+        image: sitaramu2003/hello-world-app:1.0.0
         ports:
         - containerPort: 3000
 ---
