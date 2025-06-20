@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: devops-app
-        image: your-dockerhub-username/devops-app:latest
+        image: Sitaramu2003/devops-app:latest
         ports:
         - containerPort: 3000
 ---
